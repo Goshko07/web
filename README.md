@@ -1,10 +1,12 @@
-# Тестирование веб-приложений
+# Тестирование веб-приложения
 
 Я протестировала приложение https://qa.demoshopping.ru/ и создала различную тестовую документацию.
 
-[Чек-лист, в котором собраны все важные функции для обеспечения работы и удобства использоваения приложения"](https://docs.google.com/spreadsheets/d/1CnXH3eZq9EeckcqSWIM03Zvh5XQgBdur3tCc6Z7YsmE/edit?gid=0#gid=0)
+[Чек-лист](https://docs.google.com/spreadsheets/d/1CnXH3eZq9EeckcqSWIM03Zvh5XQgBdur3tCc6Z7YsmE/edit?gid=0#gid=0)
+Чек-лист  в котором собраны все важные функции для обеспечения работы и удобства использоваения приложения"
 
 [Тест-план для приложения "Интернет-магазин"](https://docs.google.com/spreadsheets/d/1ZUEf8Y8Yfaj9EGpN7mqRQPTDHDo-r7_kW5wWOnrBTaY/edit?usp=sharing)
+Включает в себя цель и области тестирования, тестовую стратегию, ресурсы, команду и т.д
 
 [Тестовые примеры через Qase](https://github.com/Goshko07/web/blob/main/G9-2025-01-05.pdf)
 
